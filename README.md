@@ -1,6 +1,6 @@
 # Mochammad Dicky Adriansyah
-**Software Engineer | Backend Developer**
-**Email : adriansyahdicky1234@gmail.com
+**Software Engineer | Backend Developer** |
+**Email : adriansyahdicky1234@gmail.com |
 Phone : 087882730295**
 
 ## 🏆 Experience
